@@ -1,0 +1,26 @@
+MVC ( Model View Controler )
+----------------------------
+
+
+routes - index
+
+controllers - logic
+
+views - front end
+
+models - schema
+
+
+
+Media file handling in node js
+------------------------------
+
+
+media files are stored as form-data type on body
+
+header data - 
+                key   - content type
+                value - Multipart or formdata
+
+in backend  - store the recieved file and then generate url.
+then the generated url can be stored on mongodb.
